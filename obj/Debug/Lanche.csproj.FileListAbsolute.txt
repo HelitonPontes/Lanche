@@ -1,0 +1,6 @@
+C:\Users\Heliton\Source\Repos\Lanche\bin\Debug\Lanche.exe.config
+C:\Users\Heliton\Source\Repos\Lanche\bin\Debug\Lanche.exe
+C:\Users\Heliton\Source\Repos\Lanche\bin\Debug\Lanche.pdb
+C:\Users\Heliton\Source\Repos\Lanche\obj\Debug\Lanche.csprojAssemblyReference.cache
+C:\Users\Heliton\Source\Repos\Lanche\obj\Debug\Lanche.exe
+C:\Users\Heliton\Source\Repos\Lanche\obj\Debug\Lanche.pdb
